@@ -1,0 +1,23 @@
+#header-bar {
+    float: right;
+    width: 20%;
+    margin-top: 4%;
+    margin-right: 5%;
+}
+
+#header-text{
+    margin-left: 5%;
+    float: left;
+}
+
+#left {
+    width:40px;
+}
+
+#middle{
+    width:40px;
+}
+
+#right {
+    width:40px;
+}
