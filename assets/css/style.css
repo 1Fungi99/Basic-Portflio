@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+a {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: right;
+}
+
+#left {
+    width:40px;
+}
+
+#middle{
+    width:40px;
+}
+
+#right {
+    width:40px;
+}
+
+#header-bar{
+
+}
+
