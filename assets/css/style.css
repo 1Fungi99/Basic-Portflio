@@ -1,9 +1,11 @@
-h1 {
+#header-text {
     font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    background-color: #4aaaa5;
 }
 
 a {
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     text-align: right;
 }
@@ -20,7 +22,29 @@ a {
     width:40px;
 }
 
-#header-bar{
+/* #header-bar{
 
+} */
+
+#center {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-top: 15%;
+    background-color: #ffffff;
 }
 
+#header-colors {
+    background-color: #ffffff;
+}
+
+#header-text{
+    background-color: #4aaaa5;
+    color:#ffffff;
+}
+
+body {
+    background-color: #cccccc;
+}
+
+#about-me {
+    color:#4aaaa5;
+}

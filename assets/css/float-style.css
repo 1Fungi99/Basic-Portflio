@@ -1,12 +1,13 @@
 #header-bar {
     float: right;
     width: 20%;
-    margin-top: 4%;
-    margin-right: 5%;
+    margin-top: 7%;
+    margin-right: 12%;
 }
 
 #header-text{
-    margin-left: 5%;
+    margin-top: 5%;
+    margin-left: 15%;
     float: left;
 }
 
@@ -20,4 +21,16 @@
 
 #right {
     width:40px;
+}
+
+#center{
+    float: left;
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-top: 5%;
+    padding: 1%;
+}
+
+#header-colors {
+    height: 10%
 }
