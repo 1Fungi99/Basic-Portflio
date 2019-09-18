@@ -4,6 +4,11 @@
     background-color: #4aaaa5;
 }
 
+#header-bar {
+    background-color: #ffffff;
+    color: #777777;
+}
+
 a {
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
@@ -30,11 +35,15 @@ a {
 
 #center {
     font-family: 'Georgia', Times, Times New Roman, serif;
-    margin-top: 15%;
+    margin-top: 7%;
+    margin-bottom: 3.75%;
     background-color: #ffffff;
+    border-color: #cccccc;
+    color: #777777;
+    line-height: 2;
 }
 
-#header-colors {
+#header-color {
     background-color: #ffffff;
 }
 
@@ -49,4 +58,17 @@ body {
 
 #about-me {
     color:#4aaaa5;
+}
+
+#paragraph {
+    
+}
+
+#footer {
+    color: white;
+    background-color: black
+}
+
+#text-overlay {
+    
 }

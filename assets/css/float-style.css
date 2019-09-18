@@ -1,14 +1,19 @@
+.clearfix {
+    overflow: auto;
+}
+
 #header-bar {
     float: right;
     width: 20%;
-    margin-top: 7%;
+    margin-top: 8%;
     margin-right: 13%;
 }
 
 #header-text{
     margin-top: 5%;
-    margin-left: 15%;
+    margin-left: 25%;
     float: left;
+    padding: 10px;
 }
 
 #left {
@@ -24,13 +29,30 @@
 }
 
 #center{
+    width: 960px;
     float: left;
-    margin-left: 15%;
+    margin-left: 25%;
     margin-right: 20%;
-    margin-top: 5%;
     padding: 1%;
 }
 
-#header-colors {
-    height: 10%
+#header-color {
+    float:left;
+    height: 10%;
+    width: 100%;
 }
+
+#profilePicture {
+    float: left;
+    clear: left;
+    padding: 1%;
+}
+
+#footer {
+    margin-top: 5%;
+    float: left;
+    padding-left: 50%;
+    padding-right: 46.5%;
+}
+
+
